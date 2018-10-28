@@ -10,3 +10,10 @@ Rubric:
 2. Define the keyframe animations needed.
 3. Apply the animations to the correct attributes of the model.
 4. The object is animated as if it was walking.
+
+**NOTES**
+
+1. Keyframes are not defined correctly.
+2. The animation is nor performed as expected.
+
+**Grade: 70**
